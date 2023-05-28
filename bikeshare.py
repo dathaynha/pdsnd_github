@@ -11,6 +11,7 @@ def get_filters():
     Asks user to specify a city, month, and day to analyze.
     random changes
     random changes part 2
+    random changes part 3
 
     Returns:
         (str) city - name of the city to analyze
